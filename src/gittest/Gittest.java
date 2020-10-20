@@ -18,7 +18,7 @@ public class Gittest {
         // TODO code application logic here
         sayHello();
         System.out.println("Hello Phunon!");
-       
+        System.out.println("Shit Git");
     }
     public static void sayHello(){
         System.out.println("Hello World");
