@@ -16,12 +16,15 @@ public class Gittest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        sayHi();
         sayHello();
-        System.out.println("Hello Phunon!");
-        System.out.println("Shit Git");
+        
     }
     public static void sayHello(){
         System.out.println("Hello World");
+    }
+    public static void sayHi(){
+        System.out.println("Hi!");
     }
     
 }
