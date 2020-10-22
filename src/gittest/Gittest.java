@@ -26,5 +26,8 @@ public class Gittest {
     public static void sayHi(){
         System.out.println("Hi!");
     }
+    public static void SayGoodbye(){
+        System.out.println("SayGoodBye");
+    }
     
 }
